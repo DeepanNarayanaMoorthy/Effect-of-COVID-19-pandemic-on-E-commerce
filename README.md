@@ -1,5 +1,11 @@
 # Effect-of-COVID-19-pandemic-on-E-commerce
 
+## Datasets used
+
+  - [Amazon COVID-19 Predatory Pricing Data](https://www.kaggle.com/promptcloud/amazon-product-details)
+  - [Amazon Product Details](https://www.kaggle.com/promptcloud/amazon-product-details)
+  - [COVID 19 based products on Flipkart](https://www.kaggle.com/deepann/covid-19-based-products-on-flipkart)
+
 ## Scraping Data from Websites
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F1DM93NCrW8kOZ52n8OxLwDTEDNcaaxC?usp=sharing)
